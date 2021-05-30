@@ -1,0 +1,14 @@
+{
+  "apexskier.eslint.config.eslintConfigPath" : "..\/..\/..\/..\/..\/usr\/local\/lib\/node_modules\/eslint\/package.json",
+  "apexskier.eslint.config.eslintPath" : "..\/..\/..\/..\/..\/usr\/local\/lib\/node_modules\/eslint\/bin\/eslint.js",
+  "apexskier.eslint.config.eslintRulesDirs" : [
+    ""
+  ],
+  "apexskier.eslint.config.fixOnSave" : "Disable",
+  "editor.default_syntax" : "javascript",
+  "eslint.opts.disable" : true,
+  "klaemo.standardjs.config.autoFixOnSave" : "Disable",
+  "prettier.default-config.tabWidth" : 2,
+  "VineCode.Sass.cssStyle" : "Expanded",
+  "VineCode.Sass.workspaceEnable" : false
+}

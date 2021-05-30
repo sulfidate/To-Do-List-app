@@ -10,3 +10,5 @@
 
 the app, written in vanilla JavaScript, with each section of the script highlighting the functionality that serves the four corresponding features from above.
 -> Use what you learned in this Exercise to convert this JavaScript code into jQuery, following the task directions.
+
+-> script & style linted with eslint & sass and minified in dist-folder
